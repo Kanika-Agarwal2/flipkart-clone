@@ -16,9 +16,10 @@ This project is focused on layout and design — great for beginners who want to
   - Best of Electronics
   - Sports, Toys, Healthcare & more
 
-  - ⚠️ Disclaimer
-This is a static UI clone of the Flipkart homepage made only for learning purposes.
+  - ⚠️ **Disclaimer:**
+This is a static UI clone of the Flipkart homepage made only for educational purposes.
 There is no backend or real functionality like login, cart, or product linking.
+This project is not intended for commercial use and does not violate any copyrights, as it is an independent recreation for learning only.
 
 👩‍💻 Created By
 Kanika Agarwal https://github.com/Kanika-Agarwal2
